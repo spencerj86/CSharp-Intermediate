@@ -1,0 +1,12 @@
+C:\Users\James E. Spencer\Documents\FULLSAIL\COP2334-O\Labs PG2\Lab 2 - BJ\lab2_blackjackobjects\Lab2_cl\bin\Debug\net5.0\Lab2_cl.deps.json
+C:\Users\James E. Spencer\Documents\FULLSAIL\COP2334-O\Labs PG2\Lab 2 - BJ\lab2_blackjackobjects\Lab2_cl\bin\Debug\net5.0\Lab2_cl.dll
+C:\Users\James E. Spencer\Documents\FULLSAIL\COP2334-O\Labs PG2\Lab 2 - BJ\lab2_blackjackobjects\Lab2_cl\bin\Debug\net5.0\ref\Lab2_cl.dll
+C:\Users\James E. Spencer\Documents\FULLSAIL\COP2334-O\Labs PG2\Lab 2 - BJ\lab2_blackjackobjects\Lab2_cl\bin\Debug\net5.0\Lab2_cl.pdb
+C:\Users\James E. Spencer\Documents\FULLSAIL\COP2334-O\Labs PG2\Lab 2 - BJ\lab2_blackjackobjects\Lab2_cl\obj\Debug\net5.0\Lab2_cl.csprojAssemblyReference.cache
+C:\Users\James E. Spencer\Documents\FULLSAIL\COP2334-O\Labs PG2\Lab 2 - BJ\lab2_blackjackobjects\Lab2_cl\obj\Debug\net5.0\Lab2_cl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\James E. Spencer\Documents\FULLSAIL\COP2334-O\Labs PG2\Lab 2 - BJ\lab2_blackjackobjects\Lab2_cl\obj\Debug\net5.0\Lab2_cl.AssemblyInfoInputs.cache
+C:\Users\James E. Spencer\Documents\FULLSAIL\COP2334-O\Labs PG2\Lab 2 - BJ\lab2_blackjackobjects\Lab2_cl\obj\Debug\net5.0\Lab2_cl.AssemblyInfo.cs
+C:\Users\James E. Spencer\Documents\FULLSAIL\COP2334-O\Labs PG2\Lab 2 - BJ\lab2_blackjackobjects\Lab2_cl\obj\Debug\net5.0\Lab2_cl.csproj.CoreCompileInputs.cache
+C:\Users\James E. Spencer\Documents\FULLSAIL\COP2334-O\Labs PG2\Lab 2 - BJ\lab2_blackjackobjects\Lab2_cl\obj\Debug\net5.0\Lab2_cl.dll
+C:\Users\James E. Spencer\Documents\FULLSAIL\COP2334-O\Labs PG2\Lab 2 - BJ\lab2_blackjackobjects\Lab2_cl\obj\Debug\net5.0\ref\Lab2_cl.dll
+C:\Users\James E. Spencer\Documents\FULLSAIL\COP2334-O\Labs PG2\Lab 2 - BJ\lab2_blackjackobjects\Lab2_cl\obj\Debug\net5.0\Lab2_cl.pdb

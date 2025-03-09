@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "lab2_blackjackobjects/1.0.0": {
+        "dependencies": {
+          "Lab2_cl": "1.0.0"
+        },
+        "runtime": {
+          "lab2_blackjackobjects.dll": {}
+        }
+      },
+      "Lab2_cl/1.0.0": {
+        "runtime": {
+          "Lab2_cl.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "lab2_blackjackobjects/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Lab2_cl/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
