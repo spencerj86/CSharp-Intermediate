@@ -1,0 +1,11 @@
+C:\Users\James E. Spencer\Documents\FULLSAIL\COP2334-O\Labs PG2\Lab 1 - Histogram\Working\PG2_Histogram\PG2_Histogram\bin\Debug\PG2_Histogram.exe.config
+C:\Users\James E. Spencer\Documents\FULLSAIL\COP2334-O\Labs PG2\Lab 1 - Histogram\Working\PG2_Histogram\PG2_Histogram\bin\Debug\PG2_Histogram.exe
+C:\Users\James E. Spencer\Documents\FULLSAIL\COP2334-O\Labs PG2\Lab 1 - Histogram\Working\PG2_Histogram\PG2_Histogram\bin\Debug\PG2_Histogram.pdb
+C:\Users\James E. Spencer\Documents\FULLSAIL\COP2334-O\Labs PG2\Lab 1 - Histogram\Working\PG2_Histogram\PG2_Histogram\obj\Debug\PG2_Histogram.csprojAssemblyReference.cache
+C:\Users\James E. Spencer\Documents\FULLSAIL\COP2334-O\Labs PG2\Lab 1 - Histogram\Working\PG2_Histogram\PG2_Histogram\obj\Debug\PG2_Histogram.csproj.CoreCompileInputs.cache
+C:\Users\James E. Spencer\Documents\FULLSAIL\COP2334-O\Labs PG2\Lab 1 - Histogram\Working\PG2_Histogram\PG2_Histogram\obj\Debug\PG2_Histogram.exe
+C:\Users\James E. Spencer\Documents\FULLSAIL\COP2334-O\Labs PG2\Lab 1 - Histogram\Working\PG2_Histogram\PG2_Histogram\obj\Debug\PG2_Histogram.pdb
+C:\Users\James E. Spencer\Documents\FULLSAIL\COP2334-O\Labs PG2\Lab 1 - Histogram\Working\PG2_Histogram\PG2_Histogram\bin\Debug\Newtonsoft.Json.dll
+C:\Users\James E. Spencer\Documents\FULLSAIL\COP2334-O\Labs PG2\Lab 1 - Histogram\Working\PG2_Histogram\PG2_Histogram\bin\Debug\Newtonsoft.Json.xml
+C:\Users\James E. Spencer\Documents\FULLSAIL\COP2334-O\Labs PG2\Lab 1 - Histogram\Working\PG2_Histogram\PG2_Histogram\obj\Debug\PG2_Histogram.csproj.CopyComplete
+C:\Users\James E. Spencer\Documents\FULLSAIL\COP2334-O\Labs PG2\Lab 1 - Histogram\Working\PG2_Histogram\PG2_Histogram\bin\Debug\speech.csv
