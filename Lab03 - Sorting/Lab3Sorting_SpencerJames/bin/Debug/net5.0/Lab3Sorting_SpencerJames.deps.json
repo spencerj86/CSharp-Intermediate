@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Lab3Sorting_SpencerJames/1.0.0": {
+        "runtime": {
+          "Lab3Sorting_SpencerJames.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lab3Sorting_SpencerJames/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

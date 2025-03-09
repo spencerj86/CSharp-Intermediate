@@ -1,0 +1,17 @@
+C:\Users\James E. Spencer\Documents\FULLSAIL\COP2334-O\Labs PG2\Lab 3 - Sorting\Lab3Sorting_SpencerJames\bin\Debug\net5.0\Lab3Sorting_SpencerJames.exe
+C:\Users\James E. Spencer\Documents\FULLSAIL\COP2334-O\Labs PG2\Lab 3 - Sorting\Lab3Sorting_SpencerJames\bin\Debug\net5.0\inputFile.csv
+C:\Users\James E. Spencer\Documents\FULLSAIL\COP2334-O\Labs PG2\Lab 3 - Sorting\Lab3Sorting_SpencerJames\bin\Debug\net5.0\Lab3Sorting_SpencerJames.deps.json
+C:\Users\James E. Spencer\Documents\FULLSAIL\COP2334-O\Labs PG2\Lab 3 - Sorting\Lab3Sorting_SpencerJames\bin\Debug\net5.0\Lab3Sorting_SpencerJames.runtimeconfig.json
+C:\Users\James E. Spencer\Documents\FULLSAIL\COP2334-O\Labs PG2\Lab 3 - Sorting\Lab3Sorting_SpencerJames\bin\Debug\net5.0\Lab3Sorting_SpencerJames.runtimeconfig.dev.json
+C:\Users\James E. Spencer\Documents\FULLSAIL\COP2334-O\Labs PG2\Lab 3 - Sorting\Lab3Sorting_SpencerJames\bin\Debug\net5.0\Lab3Sorting_SpencerJames.dll
+C:\Users\James E. Spencer\Documents\FULLSAIL\COP2334-O\Labs PG2\Lab 3 - Sorting\Lab3Sorting_SpencerJames\bin\Debug\net5.0\ref\Lab3Sorting_SpencerJames.dll
+C:\Users\James E. Spencer\Documents\FULLSAIL\COP2334-O\Labs PG2\Lab 3 - Sorting\Lab3Sorting_SpencerJames\bin\Debug\net5.0\Lab3Sorting_SpencerJames.pdb
+C:\Users\James E. Spencer\Documents\FULLSAIL\COP2334-O\Labs PG2\Lab 3 - Sorting\Lab3Sorting_SpencerJames\obj\Debug\net5.0\Lab3Sorting_SpencerJames.csprojAssemblyReference.cache
+C:\Users\James E. Spencer\Documents\FULLSAIL\COP2334-O\Labs PG2\Lab 3 - Sorting\Lab3Sorting_SpencerJames\obj\Debug\net5.0\Lab3Sorting_SpencerJames.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\James E. Spencer\Documents\FULLSAIL\COP2334-O\Labs PG2\Lab 3 - Sorting\Lab3Sorting_SpencerJames\obj\Debug\net5.0\Lab3Sorting_SpencerJames.AssemblyInfoInputs.cache
+C:\Users\James E. Spencer\Documents\FULLSAIL\COP2334-O\Labs PG2\Lab 3 - Sorting\Lab3Sorting_SpencerJames\obj\Debug\net5.0\Lab3Sorting_SpencerJames.AssemblyInfo.cs
+C:\Users\James E. Spencer\Documents\FULLSAIL\COP2334-O\Labs PG2\Lab 3 - Sorting\Lab3Sorting_SpencerJames\obj\Debug\net5.0\Lab3Sorting_SpencerJames.csproj.CoreCompileInputs.cache
+C:\Users\James E. Spencer\Documents\FULLSAIL\COP2334-O\Labs PG2\Lab 3 - Sorting\Lab3Sorting_SpencerJames\obj\Debug\net5.0\Lab3Sorting_SpencerJames.dll
+C:\Users\James E. Spencer\Documents\FULLSAIL\COP2334-O\Labs PG2\Lab 3 - Sorting\Lab3Sorting_SpencerJames\obj\Debug\net5.0\ref\Lab3Sorting_SpencerJames.dll
+C:\Users\James E. Spencer\Documents\FULLSAIL\COP2334-O\Labs PG2\Lab 3 - Sorting\Lab3Sorting_SpencerJames\obj\Debug\net5.0\Lab3Sorting_SpencerJames.pdb
+C:\Users\James E. Spencer\Documents\FULLSAIL\COP2334-O\Labs PG2\Lab 3 - Sorting\Lab3Sorting_SpencerJames\obj\Debug\net5.0\Lab3Sorting_SpencerJames.genruntimeconfig.cache
